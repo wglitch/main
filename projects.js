@@ -11,7 +11,7 @@ const projects = [
   {
     name: "Tone Tetris",
     slug: "tone-tetris",
-    icon: "icons/tone-tetris.png"
+    icon: "icons/tonetetris.png"
   },
   {
     name: "Visual Theremin",
@@ -21,12 +21,27 @@ const projects = [
   {
     name: "Voice Doodles",
     slug: "voicedoodles",
-    icon: "icons/voicedoodles.png"
+    icon: "icons/voicedoodle.png"
   },
   {
     name: "Humla",
     slug: "humla",
-    icon: "icons/humla.png"
+    icon: "icons/wglitch.png"
+  }
+  {
+    name: "Politikersök",
+    slug: "politiker",
+    icon: "icons/wglitch.png"
+  }
+  {
+    name: "SideQuest",
+    slug: "sidequest",
+    icon: "icons/wglitch.png"
+  }
+  {
+    name: "Melody mnemonics",
+    slug: "melmonics",
+    icon: "icons/wglitch.png"
   }
 
   // Exempel:
