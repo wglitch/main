@@ -27,17 +27,17 @@ const projects = [
     name: "Humla",
     slug: "humla",
     icon: "icons/wglitch.png"
-  }
+  },
   {
     name: "Politikersök",
     slug: "politiker",
     icon: "icons/wglitch.png"
-  }
+  },
   {
     name: "SideQuest",
     slug: "sidequest",
     icon: "icons/wglitch.png"
-  }
+  },
   {
     name: "Melody mnemonics",
     slug: "melmonics",
