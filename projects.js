@@ -7,11 +7,16 @@ const projects = [
     name: "Mapnotes",
     slug: "mapnotes",
     icon: "icons/mapnotes.png"
+  }, 
+  {
+    name: "Politikersök",
+    slug: "politiker",
+    icon: "icons/wglitch.png"
   },
   {
-    name: "Tone Tetris",
-    slug: "tone-tetris",
-    icon: "icons/tonetetris.png"
+    name: "Sociogram",
+    slug: "sociogram",
+    icon: "icons/wglitch.png"
   },
   {
     name: "Visual Theremin",
@@ -19,23 +24,23 @@ const projects = [
     icon: "icons/theremin.png"
   },
   {
-    name: "Voice Doodles",
-    slug: "voicedoodles",
+    name: "SideQuest",
+    slug: "sidequest",
+    icon: "icons/wglitch.png"
+  },
+  {
+    name: "Tone Tetris",
+    slug: "tonetetris",
+    icon: "icons/tonetetris.png"
+  },
+  {
+    name: "Voice Doodle",
+    slug: "voicedoodle",
     icon: "icons/voicedoodle.png"
   },
   {
     name: "Humla",
     slug: "humla",
-    icon: "icons/wglitch.png"
-  },
-  {
-    name: "Politikersök",
-    slug: "politiker",
-    icon: "icons/wglitch.png"
-  },
-  {
-    name: "SideQuest",
-    slug: "sidequest",
     icon: "icons/wglitch.png"
   },
   {
