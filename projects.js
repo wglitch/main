@@ -43,7 +43,7 @@ const projects = [
     slug: "humla",
     icon: "icons/humla.png"
   },
-    {
+  {
     name: "ScrollWise",
     slug: "scrollwise",
     icon: "icons/wglitch.png"
