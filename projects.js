@@ -11,7 +11,7 @@ const projects = [
   {
     name: "Politikersök",
     slug: "politiker",
-    icon: "icons/wglitch.png"
+    icon: "icons/politiker.png"
   },
   {
     name: "Sociogram",
@@ -41,12 +41,12 @@ const projects = [
   {
     name: "Humla",
     slug: "humla",
-    icon: "icons/wglitch.png"
+    icon: "icons/humla.png"
   },
   {
     name: "Melody mnemonics",
     slug: "melmonics",
-    icon: "icons/wglitch.png"
+    icon: "icons/melmonics.png"
   }
 
   // Exempel:
