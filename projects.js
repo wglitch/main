@@ -26,7 +26,7 @@ const projects = [
   {
     name: "SideQuest",
     slug: "sidequest",
-    icon: "icons/wglitch.png"
+    icon: "icons/sidequest.png"
   },
   {
     name: "Tone Tetris",
