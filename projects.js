@@ -16,7 +16,7 @@ const projects = [
   {
     name: "Sociogram",
     slug: "sociogram",
-    icon: "icons/wglitch.png"
+    icon: "icons/sociogram.png"
   },
   {
     name: "Visual Theremin",
