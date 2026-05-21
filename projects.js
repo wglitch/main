@@ -29,6 +29,11 @@ const projects = [
     icon: "icons/sidequest.png"
   },
   {
+    name: "Trespår",
+    slug: "traspar",
+    icon: "icons/traspar.png"
+  },
+  {
     name: "Tone Tetris",
     slug: "tonetetris",
     icon: "icons/tonetetris.png"
