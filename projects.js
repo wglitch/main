@@ -30,8 +30,8 @@ const projects = [
   },
   {
     name: "Trespår",
-    slug: "traspar",
-    icon: "icons/traspar-icon.svg"
+    slug: "trespar",
+    icon: "icons/trespar.png"
   },
   {
     name: "Tone Tetris",
