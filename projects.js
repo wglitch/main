@@ -4,10 +4,10 @@
 
 const projects = [
   {
-    name: "Mapnotes",
-    slug: "mapnotes",
-    icon: "icons/mapnotes.png"
-  }, 
+    name: "Vallabbet",
+    slug: "vallabbet",
+    icon: "icons/vallabbet.png"
+  },
   {
     name: "Politikersök",
     slug: "politiker",
@@ -17,6 +17,16 @@ const projects = [
     name: "Sociogram",
     slug: "sociogram",
     icon: "icons/sociogram.png"
+  }, 
+  {
+    name: "Mapnotes",
+    slug: "mapnotes",
+    icon: "icons/mapnotes.png"
+  }, 
+  {
+    name: "Trespår",
+    slug: "trespar",
+    icon: "icons/trespar.png"
   },
   {
     name: "Visual Theremin",
@@ -29,9 +39,9 @@ const projects = [
     icon: "icons/sidequest.png"
   },
   {
-    name: "Trespår",
-    slug: "trespar",
-    icon: "icons/trespar.png"
+    name: "ScrollWise",
+    slug: "scrollwise",
+    icon: "icons/scrollwise.png"
   },
   {
     name: "Tone Tetris",
@@ -47,11 +57,6 @@ const projects = [
     name: "Humla",
     slug: "humla",
     icon: "icons/humla.png"
-  },
-  {
-    name: "ScrollWise",
-    slug: "scrollwise",
-    icon: "icons/wglitch.png"
   },
   {
     name: "Melody mnemonics",
