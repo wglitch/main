@@ -62,7 +62,17 @@ const projects = [
     name: "Melody mnemonics",
     slug: "melmonics",
     icon: "icons/melmonics.png"
-  }
+  },
+  {
+    name: "Run coach",
+    slug: "runcoach",
+    icon: "icons/wglitch.png"
+  },  
+  {
+    name: "Ride coach",
+    slug: "ridecoach",
+    icon: "icons/wglitch.png"
+  }  
 
   // Exempel:
   // {
