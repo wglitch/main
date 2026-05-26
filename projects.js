@@ -65,7 +65,7 @@ const projects = [
   },
   {
     name: "Frågeleken",
-    slug: "frageleken",
+    slug: "fragelek",
     icon: "icons/wglitch.png"
   },
   {
