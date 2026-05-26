@@ -64,6 +64,16 @@ const projects = [
     icon: "icons/melmonics.png"
   },
   {
+    name: "Frågeleken",
+    slug: "frageleken",
+    icon: "icons/wglitch.png"
+  },
+  {
+    name: "Relationsfrågor",
+    slug: "relationsfraga",
+    icon: "icons/wglitch.png"
+  },
+  {
     name: "Run coach",
     slug: "runcoach",
     icon: "icons/wglitch.png"
