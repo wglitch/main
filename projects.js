@@ -1,5 +1,5 @@
 // Lägg till nya projekt här.
-// icon kan vara relativ sökväg, t.ex. "icons/mapnotes.png".
+// icon kan vara relativ sökväg , t.ex. "icons/mapnotes.png".
 // url-format: https://wglitch.github.io/PROJEKTNAMN
 
 const projects = [
