@@ -79,6 +79,11 @@ const projects = [
     icon: "icons/wglitch.png"
   },
   {
+    name: "Djurförsäkringsräknare",
+    slug: "forsakring",
+    icon: "icons/wglitch.png"
+  },
+  {
     name: "Run coach",
     slug: "runcoach",
     icon: "icons/wglitch.png"
